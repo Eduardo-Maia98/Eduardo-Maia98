@@ -1,6 +1,6 @@
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Maia98&hide_rank=true&show_icons=true&theme=github_dark&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Maia98&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true&theme=github_dark&hide_border=true" 
     height="150"
     alt="stats graph"  
     />
